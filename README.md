@@ -41,8 +41,11 @@
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manpreet%20Kaur-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
-📧 your-email@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manpreet%20Kaur-blue?style=flat&logo=linkedin)](www.linkedin.com/in/
+manpreetttkaur03
+Vanity URL name
+)
+📧 manpreetkaur02310@gmail.com
 
 ---
 
