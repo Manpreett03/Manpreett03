@@ -1,6 +1,6 @@
 # Hi there, I'm Manpreet Kaur! 👋
 
-🎓 CSE Student @ Guru Nanak Dev Engineering College, Ludhiana (4th Sem)
+🎓 CSE Student @ Guru Nanak Dev Engineering College, Ludhiana (5th Sem)
 🌱 Currently learning Python | DBMS | Data Science | Machine Learning
 🎯 Goal: Land a Data Science / ML internship | Dream: Google & Microsoft
 📍 Ludhiana, Punjab, India
