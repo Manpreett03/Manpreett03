@@ -2,7 +2,7 @@
 
 🎓 CSE Student @ Guru Nanak Dev Engineering College, Ludhiana (5th Sem)
 🌱 Currently learning Python | DBMS | Data Science | Machine Learning
-🎯 Goal: Land a Data Science / ML internship | Dream: Google & Microsoft
+🎯 Goal: Software Engineer/ ML internship
 📍 Ludhiana, Punjab, India
 
 ---
