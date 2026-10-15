@@ -18,7 +18,7 @@
 
 ## 📚 Currently Learning
 
-- 🐍 Python (CS50P — Harvard)
+- AI/ML(Apna college)
 - 🗄️ DBMS & SQL
 - 📊 Data Science & Machine Learning (coming soon)
 
@@ -30,8 +30,7 @@
 
 ---
 
-## 🎯 Goals for 2025-26
-
+## 🎯 Goals for 2026-27
 - ✅ Master Python & SQL
 - ⏳ Build 5+ ML projects
 - ⏳ Get first Data Science internship
